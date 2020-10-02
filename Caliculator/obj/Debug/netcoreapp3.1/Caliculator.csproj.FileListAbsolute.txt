@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\bin\Debug\netcoreapp3.1\Caliculator.exe
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\bin\Debug\netcoreapp3.1\Caliculator.deps.json
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\bin\Debug\netcoreapp3.1\Caliculator.runtimeconfig.json
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\bin\Debug\netcoreapp3.1\Caliculator.runtimeconfig.dev.json
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\bin\Debug\netcoreapp3.1\Caliculator.dll
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\bin\Debug\netcoreapp3.1\Caliculator.pdb
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\obj\Debug\netcoreapp3.1\Caliculator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\obj\Debug\netcoreapp3.1\Caliculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\obj\Debug\netcoreapp3.1\Caliculator.AssemblyInfo.cs
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\obj\Debug\netcoreapp3.1\Caliculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\obj\Debug\netcoreapp3.1\Caliculator.dll
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\obj\Debug\netcoreapp3.1\Caliculator.pdb
+C:\Users\User\Documents\Программы и Проекты на C#\Caliculator\obj\Debug\netcoreapp3.1\Caliculator.genruntimeconfig.cache
