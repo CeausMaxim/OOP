@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.Form1.resources
+C:\Users\User\source\repos\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.Properties.Resources.resources
+C:\Users\User\source\repos\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WorkwithFilesTXT\bin\Debug\WorkwithFilesTXT.exe.config
+C:\Users\User\source\repos\WorkwithFilesTXT\bin\Debug\WorkwithFilesTXT.exe
+C:\Users\User\source\repos\WorkwithFilesTXT\bin\Debug\WorkwithFilesTXT.pdb
+C:\Users\User\source\repos\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.exe
+C:\Users\User\source\repos\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.pdb
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\bin\Debug\WorkwithFilesTXT.exe.config
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\bin\Debug\WorkwithFilesTXT.exe
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\bin\Debug\WorkwithFilesTXT.pdb
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.csprojAssemblyReference.cache
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.Form1.resources
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.Properties.Resources.resources
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.csproj.GenerateResource.cache
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.exe
+C:\Users\User\Documents\Программы и Проекты на C#\WorkwithFilesTXT\obj\Debug\WorkwithFilesTXT.pdb
