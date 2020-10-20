@@ -1,0 +1,39 @@
+C:\Users\Игорь\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Игорь\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Игорь\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Desktop\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Desktop\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Desktop\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\Calculator\obj\Debug\Calculator.pdb
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\bin\Debug\Calculator.exe.config
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\bin\Debug\Calculator.exe
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\bin\Debug\Calculator.pdb
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\obj\Debug\Calculator.Form1.resources
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\obj\Debug\Calculator.exe
+G:\Programarea orientata pe obiect I\CaliculatorWinForm\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Documents\Программы и Проекты на C#\CaliculatorWinForm\Calculator\bin\Debug\Calculator.pdb
